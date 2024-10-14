@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chúc Mừng Cô Hồ Thị Phượng</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            text-align: center;
+            color: #333;
+            padding: 20px;
+        }
+        h1 {
+            color: #FF69B4;
+        }
+        .message {
+            background-color: #eeff69;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Chúc Mừng Ngày Phụ Nữ Việt Nam 20/10</h1>
+    <div class="message">
+        <h1>Kính gửi cô Hồ Thị Phượng</h1>
+        <h2>Nhân ngày 20 tháng 10, lớp 9A1 xin gửi tới cô lời chúc tốt đẹp nhất.<h2>
+        <h2>Chúc cô luôn vui vẻ, hạnh phúc và thành công trong sự nghiệp giáo dục.</h2>
+        <h2>Cảm ơn cô vì tất cả những gì cô đã làm cho chúng em!</h2>
+        <h2>Thân ái,</h2>
+        <h3>-Lớp 9A1-</h3>
+    </div>
+    
+    <h4>
+        Bài: Món Quà Tặng Cô - Thầy Cô Cho Em Mùa Xuân - Nhạc Thiếu Nhi Sôi Động Chào Mừng Ngày 20/11
+        bởi Bé Candy Ngọc Hà
+    </h4>
+    <audio controls autoplay loop>
+        <source src="C:\Users\Admin\Desktop\nang\2011\Món Quà Tặng Cô - Thầy Cô Cho Em Mùa Xuân - Nhạc Thiếu Nhi Sôi Động Chào Mừng Ngày 20-11.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <h6>
+        MAKE BY Lê Nắng 
+        <a href="https://www.appsheet.com/start/e9d78330-2fd1-4b3e-92d6-b6b59cd3c6e9">
+            somethong new
+        </a>
+    </h6>
+</body>
+</html>
